@@ -123,7 +123,7 @@
     <id content='114' handcard ='3' num='10' color='spade' class='magic2' name='bingliang'></id>
     <id content='115' handcard ='3' num='11' color='spade' class='magic3' name='tiesuo'></id>
     <id content='116' handcard ='3' num='12' color='spade' class='magic3' name='tiesuo'></id>
-    <id content='117' handcard ='3' num='13' color='spade' class='magic2' name='unassailable'></id>
+    <id content='117' handcard ='3' num='13' color='spade' class='magic1' name='unassailable'></id>
 
     <id content='118' handcard ='3' num='1' color='heart' class='magic1' name='unassailable'></id>
     <id content='119' handcard ='3' num='2' color='heart' class='magic1' name='fire'></id>
@@ -142,7 +142,7 @@
     <id content='131' handcard ='3' num='1' color='club' class='equip2' name='baiyinshizi'></id>
     <id content='132' handcard ='3' num='2' color='club' class='equip2' name='tengjia'></id>
     <id content='133' handcard ='3' num='3' color='club' class='basic6' name='wine'></id>
-    <id content='134' handcard ='3' num='4' color='club' class='magic1' name='bingliang'></id>
+    <id content='134' handcard ='3' num='4' color='club' class='magic2' name='bingliang'></id>
     <id content='135' handcard ='3' num='5' color='club' class='basic5' name='tattack'></id>
     <id content='136' handcard ='3' num='6' color='club' class='basic5' name='tattack'></id>
     <id content='137' handcard ='3' num='7' color='club' class='basic5' name='tattack'></id>
